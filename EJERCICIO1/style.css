@@ -1,0 +1,35 @@
+section {
+width: 75%;
+
+}
+
+h1 {
+margin-left: 25%;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h2 {
+    background-color: gray;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 10px;
+    width: 75%;
+}
+
+img {
+    height: 130px;
+    float: left;
+    margin-right: 15px;
+
+
+}
+
+
+p {
+    text-align: justify;
+    margin-bottom: 10%;
+    width: 60%;
+
+}
+
+
+
